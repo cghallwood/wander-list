@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WanderList</string>
+    <string name="normal_map_item">Normal Map</string>
+    <string name="hybrid_map_item">Satellite Map</string>
+    <string name="delete_item">Delete</string>
+    <string name="new_marker_title">New Marker</string>
+    <string name="dropped_marker_title">Dropped Marker</string>
+    <string name="confirm_input">Successfully Updated</string>
+    <string name="error_input">Please fill out all fields</string>
+    <string name="place_title_hint">Title</string>
+    <string name="place_latitude_info">Latitude</string>
+    <string name="place_longitude_info">Longitude</string>
+    <string name="place_add_button">Add</string>
+    <string name="place_update_button">Update</string>
+    <string name="place_done_button">Done</string>
+    <string name="list_button_content_description">List places button</string>
+    <string name="map_button_content_description">Map view button</string>
+    <string name="alert_positive_button">Yes</string>
+    <string name="alert_negative_button">No</string>
+    <string name="alert_delete_title">Delete %1$s?</string>
+    <string name="alert_delete_message">Are you sure you want to delete %1$s?</string>
+</resources>
